@@ -27,6 +27,7 @@ This repository contains SQL tasks and exercises covering Data Definition Langua
 ##### Schema Preview
 
 ![Movie Database Schema](https://github.com/khalidkaram22/database-tasks/blob/main/DDL/images/movie-database.png)
+![Movie Database Schema](https://github.com/khalidkaram22/database-tasks/blob/main/DDL/images/movie_shema_digram.png)
 
 ---
 
